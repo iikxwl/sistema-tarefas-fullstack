@@ -1,0 +1,16 @@
+{
+  "name": "sistema-tarefas-fullstack",
+  "version": "1.0.0",
+  "description": "Sistema simples de tarefas para praticar front-end, back-end e integração via API.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": ["node", "express", "javascript", "fullstack", "tasks"],
+  "author": "Christian Batista",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
